@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\DataAccessLayer">
+      <UniqueIdentifier>{36d87e2d-f783-4b5d-af2f-f7917a5d0e9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Global Librarys">
+      <UniqueIdentifier>{1d201658-552b-4994-8430-08c61a89a2be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\FrontLayer">
+      <UniqueIdentifier>{d7557cd9-aabd-479b-a1ee-04a8cadb44ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\FrontLayer\Maps">
+      <UniqueIdentifier>{556bb2d2-2269-4447-9513-cd206b37fb58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DataStructureClasses">
+      <UniqueIdentifier>{7c9e749e-e5b7-45ce-8239-528ee202bec3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PersonelModelsFunctions">
+      <UniqueIdentifier>{362e7ec5-ecba-4a73-a55a-385bf0f96dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UserModelsFunctions">
+      <UniqueIdentifier>{66f3579e-5419-453c-9c76-2148a9743576}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BookManagementSystem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clsBinaryTree.h">
+      <Filter>Header Files\DataStructureClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="clsCircularLinkedList.h">
+      <Filter>Header Files\DataStructureClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\abu hadhud courses\abuH course 13\course13\clsDblLinkedList.h">
+      <Filter>Header Files\DataStructureClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="clsDoublyCircularLinkedList.h">
+      <Filter>Header Files\DataStructureClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="clsHashTable.h">
+      <Filter>Header Files\DataStructureClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\abu hadhud courses\abuH course 13\course13\clsMyQueue.h">
+      <Filter>Header Files\DataStructureClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\abu hadhud courses\abuH course 13\course13\clsMyStack.h">
+      <Filter>Header Files\DataStructureClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="clsSinglyLinkedList.h">
+      <Filter>Header Files\DataStructureClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="DataLayer.h">
+      <Filter>Header Files\DataAccessLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBook.h">
+      <Filter>Header Files\DataAccessLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="PrModel1.h">
+      <Filter>Header Files\PersonelModelsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\..\abu hadhud courses\abuH course 13\course13\clsDate.h">
+      <Filter>Header Files\Global Librarys</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Header Files\Global Librarys</Filter>
+    </ClInclude>
+    <ClInclude Include="inputs.h">
+      <Filter>Header Files\Global Librarys</Filter>
+    </ClInclude>
+    <ClInclude Include="PersonnelModels.h">
+      <Filter>Header Files\FrontLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="UserModels.h">
+      <Filter>Header Files\FrontLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginScreens.h">
+      <Filter>Header Files\FrontLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="clsMainScreen.h">
+      <Filter>Header Files\FrontLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="MapFunctionsInPersonnelScreen.h">
+      <Filter>Header Files\FrontLayer\Maps</Filter>
+    </ClInclude>
+    <ClInclude Include="MapFunctionsInUserScreen.h">
+      <Filter>Header Files\FrontLayer\Maps</Filter>
+    </ClInclude>
+    <ClInclude Include="PrModel2.h">
+      <Filter>Header Files\PersonelModelsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="userModel1.h">
+      <Filter>Header Files\UserModelsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="userModel2.h">
+      <Filter>Header Files\UserModelsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBorrowedBook.h">
+      <Filter>Header Files\DataAccessLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="PrModel3.h">
+      <Filter>Header Files\PersonelModelsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="userModel3.h">
+      <Filter>Header Files\UserModelsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="clsBookRequest.h">
+      <Filter>Header Files\DataAccessLayer</Filter>
+    </ClInclude>
+    <ClInclude Include="PrModel4.h">
+      <Filter>Header Files\PersonelModelsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="userModel4.h">
+      <Filter>Header Files\UserModelsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="userModel5.h">
+      <Filter>Header Files\UserModelsFunctions</Filter>
+    </ClInclude>
+    <ClInclude Include="PrModel5.h">
+      <Filter>Header Files\PersonelModelsFunctions</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

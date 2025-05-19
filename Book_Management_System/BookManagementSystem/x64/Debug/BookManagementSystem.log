@@ -1,0 +1,125 @@
+﻿  BookManagementSystem.cpp
+C:\BookManagementSystem\BookManagementSystem\clsMainScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\clsMainScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\LoginScreens.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\LoginScreens.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\global.h(10,23): warning C4091: 'static ': ignored on left of 'global::Models' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\global.h(101,23): warning C4091: 'static ': ignored on left of 'global::BookLanguages' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\global.h(2,14): warning C4091: 'static ': ignored on left of 'global' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\LoginScreens.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\MapFunctionsInPersonnelScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\MapFunctionsInPersonnelScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PersonnelModels.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PersonnelModels.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PersonnelModels.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PrModel1.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PrModel1.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PrModel1.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PrModel1.h(10,14): warning C4091: 'static ': ignored on left of 'PrModel1' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PersonnelModels.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PrModel2.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PrModel2.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PrModel2.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel2.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel2.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel2.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\clsMyStack.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\clsMyQueue.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel2.h(12,14): warning C4091: 'static ': ignored on left of 'userModel2' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PrModel2.h(12,14): warning C4091: 'static ': ignored on left of 'PrModel2' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel3.h(13,14): warning C4091: 'static ': ignored on left of 'userModel3' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel5.h(17,14): warning C4091: 'static ': ignored on left of 'userModel5' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\PrModel5.h(17,14): warning C4091: 'static ': ignored on left of 'PrModel5' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\LoginScreens.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\MapFunctionsInUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\MapFunctionsInUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\UserModels.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\UserModels.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel1.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel1.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel1.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel1.h(11,14): warning C4091: 'static ': ignored on left of 'userModel1' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+C:\BookManagementSystem\BookManagementSystem\userModel4.h(14,14): warning C4091: 'static ': ignored on left of 'userModel4' when no variable is declared
+  (compiling source file 'BookManagementSystem.cpp')
+  
+  BookManagementSystem.vcxproj -> C:\BookManagementSystem\x64\Debug\BookManagementSystem.exe
